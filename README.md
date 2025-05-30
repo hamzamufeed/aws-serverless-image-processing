@@ -8,7 +8,7 @@ When an image is uploaded to the `original-images-hamzamufeed` S3 bucket, an AWS
 
 ## 🏗️ Architecture
 
-[Architecture Diagram]
+![alt text](<Cloud Architecture.png>)
 
 ## ✅ AWS Services Used
 
